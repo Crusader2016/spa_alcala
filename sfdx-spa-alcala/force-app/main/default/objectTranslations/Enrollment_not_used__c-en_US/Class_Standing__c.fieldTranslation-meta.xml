@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Class Standing --></label>
+    <name>Class_Standing__c</name>
+    <picklistValues>
+        <masterLabel>Elementary School</masterLabel>
+        <translation><!-- Elementary School --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>High School</masterLabel>
+        <translation><!-- High School --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Middle School</masterLabel>
+        <translation><!-- Middle School --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

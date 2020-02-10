@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- If available, the Class level associated with the student as provided by the reporting college. --></help>
+    <label><!-- Class Level --></label>
+    <name>Class_Level__c</name>
+    <picklistValues>
+        <masterLabel>A = Associate&#39;s</masterLabel>
+        <translation><!-- A = Associate&apos;s --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>B = Bachelor&#39;s (Undergraduate)</masterLabel>
+        <translation><!-- B = Bachelor&apos;s (Undergraduate) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>C = Certificate (Undergraduate)</masterLabel>
+        <translation><!-- C = Certificate (Undergraduate) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>D = Doctoral (Graduate)</masterLabel>
+        <translation><!-- D = Doctoral (Graduate) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>F = Freshman (Undergraduate)</masterLabel>
+        <translation><!-- F = Freshman (Undergraduate) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>G = Unspecified (Graduate/Professional)</masterLabel>
+        <translation><!-- G = Unspecified (Graduate/Professional) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>J = Junior (Undergraduate)</masterLabel>
+        <translation><!-- J = Junior (Undergraduate) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>L = First Professional (Graduate)</masterLabel>
+        <translation><!-- L = First Professional (Graduate) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>M = Master’s (Graduate)</masterLabel>
+        <translation><!-- M = Master’s (Graduate) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>N = Unspecified (Undergraduate)</masterLabel>
+        <translation><!-- N = Unspecified (Undergraduate) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>P = Postdoctorate (Graduate)</masterLabel>
+        <translation><!-- P = Postdoctorate (Graduate) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>R = Senior (Undergraduate)</masterLabel>
+        <translation><!-- R = Senior (Undergraduate) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>S = Sophomore (Undergraduate)</masterLabel>
+        <translation><!-- S = Sophomore (Undergraduate) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>T = Post Baccalaureate Certificate</masterLabel>
+        <translation><!-- T = Post Baccalaureate Certificate --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

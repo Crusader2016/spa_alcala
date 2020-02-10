@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompactLayout xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Program_Enrollment_Student</fullName>
+    <fields>Name</fields>
+    <fields>Student_Name__c</fields>
+    <fields>Application_Submitted_Date__c</fields>
+    <fields>Admission_Date__c</fields>
+    <fields>Grade_Level__c</fields>
+    <fields>Eligible_to_Enroll__c</fields>
+    <fields>Start_Date__c</fields>
+    <fields>End_Date__c</fields>
+    <fields>GPA__c</fields>
+    <label>Program Enrollment Student</label>
+</CompactLayout>

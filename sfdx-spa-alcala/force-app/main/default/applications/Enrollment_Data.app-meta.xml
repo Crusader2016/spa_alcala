@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <defaultLandingTab>Year__c</defaultLandingTab>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <label>Enrollment Data</label>
+    <tabs>School_Level__c</tabs>
+    <tabs>Year__c</tabs>
+    <tabs>Subjects__c</tabs>
+    <tabs>Period_Semester__c</tabs>
+    <tabs>Section__c</tabs>
+    <tabs>Teacher_Subject__c</tabs>
+    <tabs>School_Year__c</tabs>
+</CustomApplication>

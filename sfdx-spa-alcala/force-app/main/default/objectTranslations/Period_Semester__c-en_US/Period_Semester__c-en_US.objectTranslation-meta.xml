@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Semester</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Semesters</value>
+    </caseValues>
+    <layouts>
+        <layout>Junior Highschool Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Period/Semester Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Senior Highschool Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <recordTypes>
+        <description><!-- Grade 7 - 10 --></description>
+        <label><!-- Junior Highschool --></label>
+        <name>Junior_Highschool</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Grade 11 - 12 --></description>
+        <label><!-- Senior Highschool --></label>
+        <name>Senior_Highschool</name>
+    </recordTypes>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

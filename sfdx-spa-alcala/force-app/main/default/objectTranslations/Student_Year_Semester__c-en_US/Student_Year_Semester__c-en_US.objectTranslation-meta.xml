@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Enrollment</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Enrollments</value>
+    </caseValues>
+    <layouts>
+        <layout>Junior Highschool</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Fields --></label>
+            <section>Fields</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Senior  Highschool</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Fields --></label>
+            <section>Fields</section>
+        </sections>
+    </layouts>
+    <recordTypes>
+        <description><!-- Grades 7-10 --></description>
+        <label><!-- Junior Highschool --></label>
+        <name>Junior_Highschool</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Grades 11-12 --></description>
+        <label><!-- Senior Highschool --></label>
+        <name>Senior_Highschool</name>
+    </recordTypes>
+    <startsWith>Consonant</startsWith>
+    <webLinks>
+        <label><!-- Enroll --></label>
+        <name>Enroll</name>
+    </webLinks>
+</CustomObjectTranslation>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The last enrollment status reported for the student:. This field will be blank if the reporting college has not defined the student’s enrollment status as directory information. --></help>
+    <label><!-- Enrollment Status --></label>
+    <name>Enrollment_Status__c</name>
+    <picklistValues>
+        <masterLabel>A = Leave of absence</masterLabel>
+        <translation><!-- A = Leave of absence --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>D = Deceased</masterLabel>
+        <translation><!-- D = Deceased --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>F = Full‐time</masterLabel>
+        <translation><!-- F = Full‐time --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>H = Half‐time</masterLabel>
+        <translation><!-- H = Half‐time --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>L = Less than half‐time</masterLabel>
+        <translation><!-- L = Less than half‐time --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Q = Three‐quarter time</masterLabel>
+        <translation><!-- Q = Three‐quarter time --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>W = Withdrawn</masterLabel>
+        <translation><!-- W = Withdrawn --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Staff Role --></label>
+    <name>Staff_Role__c</name>
+    <picklistValues>
+        <masterLabel>Admin</masterLabel>
+        <translation><!-- Admin --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Janitor</masterLabel>
+        <translation><!-- Janitor --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Principal</masterLabel>
+        <translation><!-- Principal --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Registrar</masterLabel>
+        <translation><!-- Registrar --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Teacher</masterLabel>
+        <translation><!-- Teacher --></translation>
+    </picklistValues>
+</CustomFieldTranslation>
