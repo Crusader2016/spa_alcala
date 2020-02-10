@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <layouts>
+        <layout>General Layout</layout>
+        <sections>
+            <label>Kontaktdetails</label>
+            <section>Contact Details</section>
+        </sections>
+        <sections>
+            <label>Spendeninformationen</label>
+            <section>Donation Information</section>
+        </sections>
+        <sections>
+            <label>Spendenbeträge gesamt</label>
+            <section>Donation Totals</section>
+        </sections>
+        <sections>
+            <label>Informationen zur Spende des Haushalts</label>
+            <section>Household Donation Info</section>
+        </sections>
+        <sections>
+            <label><!-- Household Information --></label>
+            <section>Household Information</section>
+        </sections>
+        <sections>
+            <label>Sonstiges</label>
+            <section>Misc</section>
+        </sections>
+        <sections>
+            <label><!-- Privacy Preferences --></label>
+            <section>Privacy Preferences</section>
+        </sections>
+        <sections>
+            <label>Weicher Kredit gesamt</label>
+            <section>Soft Credit Totals</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Parent/Guardian Layout</layout>
+        <sections>
+            <label>Kontaktdetails</label>
+            <section>Contact Details</section>
+        </sections>
+        <sections>
+            <label>Spendeninformationen</label>
+            <section>Donation Information</section>
+        </sections>
+        <sections>
+            <label>Spendenbeträge gesamt</label>
+            <section>Donation Totals</section>
+        </sections>
+        <sections>
+            <label>Informationen zur Spende des Haushalts</label>
+            <section>Household Donation Info</section>
+        </sections>
+        <sections>
+            <label><!-- Household Information --></label>
+            <section>Household Information</section>
+        </sections>
+        <sections>
+            <label>Sonstiges</label>
+            <section>Misc</section>
+        </sections>
+        <sections>
+            <label>Weicher Kredit gesamt</label>
+            <section>Soft Credit Totals</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Staff Layout</layout>
+        <sections>
+            <label><!-- Address --></label>
+            <section>Address</section>
+        </sections>
+        <sections>
+            <label>Kontaktdetails</label>
+            <section>Contact Details</section>
+        </sections>
+        <sections>
+            <label><!-- Household Information --></label>
+            <section>Household Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Student Layout</layout>
+        <sections>
+            <label><!-- Address --></label>
+            <section>Address</section>
+        </sections>
+        <sections>
+            <label><!-- Household Information --></label>
+            <section>Household Information</section>
+        </sections>
+        <sections>
+            <label><!-- Information --></label>
+            <section>Information</section>
+        </sections>
+        <sections>
+            <label><!-- School History --></label>
+            <section>School History</section>
+        </sections>
+    </layouts>
+    <quickActions>
+        <label><!-- Create Enrollment --></label>
+        <name>Create_Enrollment</name>
+    </quickActions>
+    <recordTypes>
+        <description><!-- This record type is used to capture details and related metrics about general contacts. --></description>
+        <label><!-- General --></label>
+        <name>General</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- This record type is used to capture details and related metrics about parents and guardians. --></description>
+        <label><!-- Parent/Guardian --></label>
+        <name>Parent_Guardian</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- This record type is used to capture details about staff members. --></description>
+        <label><!-- Staff --></label>
+        <name>Staff</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- This record type is used to capture student details and related metrics. --></description>
+        <label><!-- Student --></label>
+        <name>Student</name>
+    </recordTypes>
+    <webLinks>
+        <label><!-- GoogleMaps --></label>
+        <name>GoogleMaps</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- GoogleSearch --></label>
+        <name>GoogleSearch</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- SendGmail --></label>
+        <name>SendGmail</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- YahooMaps --></label>
+        <name>YahooMaps</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- YahooWeather --></label>
+        <name>YahooWeather</name>
+    </webLinks>
+</CustomObjectTranslation>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Enrollment_Status__c</fullName>
+    <description>The last enrollment status reported for the student:. This field will be blank if the reporting college has not defined the student’s enrollment status as directory information.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>The last enrollment status reported for the student:. This field will be blank if the reporting college has not defined the student’s enrollment status as directory information.</inlineHelpText>
+    <label>Enrollment Status</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>F = Full‐time</fullName>
+                <default>false</default>
+                <label>F = Full‐time</label>
+            </value>
+            <value>
+                <fullName>H = Half‐time</fullName>
+                <default>false</default>
+                <label>H = Half‐time</label>
+            </value>
+            <value>
+                <fullName>L = Less than half‐time</fullName>
+                <default>false</default>
+                <label>L = Less than half‐time</label>
+            </value>
+            <value>
+                <fullName>Q = Three‐quarter time</fullName>
+                <default>false</default>
+                <label>Q = Three‐quarter time</label>
+            </value>
+            <value>
+                <fullName>A = Leave of absence</fullName>
+                <default>false</default>
+                <label>A = Leave of absence</label>
+            </value>
+            <value>
+                <fullName>W = Withdrawn</fullName>
+                <default>false</default>
+                <label>W = Withdrawn</label>
+            </value>
+            <value>
+                <fullName>D = Deceased</fullName>
+                <default>false</default>
+                <label>D = Deceased</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

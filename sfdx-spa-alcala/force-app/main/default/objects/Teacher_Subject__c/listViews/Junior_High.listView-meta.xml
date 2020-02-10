@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Junior_High</fullName>
+    <columns>NAME</columns>
+    <columns>Subject__c</columns>
+    <columns>Teacher__c</columns>
+    <columns>RECORDTYPE</columns>
+    <filterScope>Everything</filterScope>
+    <filters>
+        <field>RECORDTYPE</field>
+        <operation>equals</operation>
+        <value>Teacher_Subject__c.Junior_High</value>
+    </filters>
+    <label>Junior High</label>
+</ListView>

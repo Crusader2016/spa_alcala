@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- ESC Status --></label>
+    <name>ESC_Status__c</name>
+    <picklistValues>
+        <masterLabel>Drop Out</masterLabel>
+        <translation><!-- Drop Out --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Leaver</masterLabel>
+        <translation><!-- Leaver --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Retained</masterLabel>
+        <translation><!-- Retained --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Transferred In</masterLabel>
+        <translation><!-- Transferred In --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Transferred Out</masterLabel>
+        <translation><!-- Transferred Out --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

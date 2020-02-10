@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Subject Type --></label>
+    <name>Subject_Type__c</name>
+    <picklistValues>
+        <masterLabel>Core Subject</masterLabel>
+        <translation><!-- Core Subject --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Special Subject</masterLabel>
+        <translation><!-- Special Subject --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

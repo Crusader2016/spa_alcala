@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Class_Level__c</fullName>
+    <description>If available, the Class level associated with the student as provided by the reporting college.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>If available, the Class level associated with the student as provided by the reporting college.</inlineHelpText>
+    <label>Class Level</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>F = Freshman (Undergraduate)</fullName>
+                <default>false</default>
+                <label>F = Freshman (Undergraduate)</label>
+            </value>
+            <value>
+                <fullName>S = Sophomore (Undergraduate)</fullName>
+                <default>false</default>
+                <label>S = Sophomore (Undergraduate)</label>
+            </value>
+            <value>
+                <fullName>J = Junior (Undergraduate)</fullName>
+                <default>false</default>
+                <label>J = Junior (Undergraduate)</label>
+            </value>
+            <value>
+                <fullName>R = Senior (Undergraduate)</fullName>
+                <default>false</default>
+                <label>R = Senior (Undergraduate)</label>
+            </value>
+            <value>
+                <fullName>C = Certificate (Undergraduate)</fullName>
+                <default>false</default>
+                <label>C = Certificate (Undergraduate)</label>
+            </value>
+            <value>
+                <fullName>N = Unspecified (Undergraduate)</fullName>
+                <default>false</default>
+                <label>N = Unspecified (Undergraduate)</label>
+            </value>
+            <value>
+                <fullName>B = Bachelor&#39;s (Undergraduate)</fullName>
+                <default>false</default>
+                <label>B = Bachelor&#39;s (Undergraduate)</label>
+            </value>
+            <value>
+                <fullName>M = Master’s (Graduate)</fullName>
+                <default>false</default>
+                <label>M = Master’s (Graduate)</label>
+            </value>
+            <value>
+                <fullName>D = Doctoral (Graduate)</fullName>
+                <default>false</default>
+                <label>D = Doctoral (Graduate)</label>
+            </value>
+            <value>
+                <fullName>P = Postdoctorate (Graduate)</fullName>
+                <default>false</default>
+                <label>P = Postdoctorate (Graduate)</label>
+            </value>
+            <value>
+                <fullName>L = First Professional (Graduate)</fullName>
+                <default>false</default>
+                <label>L = First Professional (Graduate)</label>
+            </value>
+            <value>
+                <fullName>G = Unspecified (Graduate/Professional)</fullName>
+                <default>false</default>
+                <label>G = Unspecified (Graduate/Professional)</label>
+            </value>
+            <value>
+                <fullName>A = Associate&#39;s</fullName>
+                <default>false</default>
+                <label>A = Associate&#39;s</label>
+            </value>
+            <value>
+                <fullName>T = Post Baccalaureate Certificate</fullName>
+                <default>false</default>
+                <label>T = Post Baccalaureate Certificate</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
