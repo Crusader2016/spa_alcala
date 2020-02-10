@@ -1,0 +1,11 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "namespace": "spa_alcala_prod",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "46.0"
+}
